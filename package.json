@@ -1,0 +1,16 @@
+{
+  "name": "get-current-age",
+  "version": "0.0.2",
+  "description": "Returns age based on input date of birth",
+  "main": "dist/age.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "age",
+    "date-of-birth",
+    "birthday"
+  ],
+  "author": "johna-123",
+  "license": "MIT"
+}
