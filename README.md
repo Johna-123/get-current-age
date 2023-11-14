@@ -3,12 +3,12 @@ This package returns the current age depending on the birthdate you input.
 ### Installation
 Install the package:
 ```bash
-npm install get-current-date
+npm install get-current-age
 ```
 ### Usage
 Include the package in your JavaScript:
 ```javascript
-const age = require("get-current-date");
+const age = require("get-current-age");
 ```
 Get age:
 ```javascript
