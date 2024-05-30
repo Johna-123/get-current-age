@@ -1,4 +1,4 @@
-function age(day, month, year) {
+export default function age(day, month, year) {
   const today = [new Date().getDate(), new Date().getMonth() + 1, new Date().getFullYear()];
   const birthday = [day, month, year];
 
@@ -8,5 +8,3 @@ function age(day, month, year) {
     return today[2] - birthday[2];
   }
 }
-
-module.exports = age;

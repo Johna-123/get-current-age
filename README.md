@@ -6,9 +6,9 @@ Install the package:
 npm install get-current-age
 ```
 ### Usage
-Include the package in your JavaScript:
+Import the package to your JavaScript file:
 ```javascript
-const age = require("get-current-age");
+import age from "get-current-age";
 ```
 Get age:
 ```javascript
