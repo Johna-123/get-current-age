@@ -1,6 +1,6 @@
 {
   "name": "get-current-age",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "Returns age based on input date of birth",
   "main": "src/age.min.js",
   "types": "src/types.d.ts",
