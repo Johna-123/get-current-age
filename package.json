@@ -1,8 +1,9 @@
 {
   "name": "get-current-age",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Returns age based on input date of birth",
-  "main": "dist/age.min.js",
+  "main": "src/age.min.js",
+  "types": "src/types.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
